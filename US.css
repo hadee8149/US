@@ -37,7 +37,7 @@ body {
     -webkit-background-clip: text; /* Clip the background to the text */
     -webkit-text-fill-color: transparent; /* Make text fill transparent to show gradient */
     position: absolute; /* Make the text absolutely positioned */
-    top: 90px; /* Adjust the distance from the top of the page */
+    top: 150px; /* Adjust the distance from the top of the page */
     left: 50%; /* Center the text horizontally */
     transform: translateX(-50%); /* Align center by adjusting the position */
     z-index: 10; /* Ensure it's above the carousel */
